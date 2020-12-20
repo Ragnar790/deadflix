@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/deadflix/static/css/main.6594404f.chunk.css",
+    "main.js": "/deadflix/static/js/main.21522ae7.chunk.js",
+    "main.js.map": "/deadflix/static/js/main.21522ae7.chunk.js.map",
+    "runtime-main.js": "/deadflix/static/js/runtime-main.aa183f01.js",
+    "runtime-main.js.map": "/deadflix/static/js/runtime-main.aa183f01.js.map",
+    "static/js/2.79d98c68.chunk.js": "/deadflix/static/js/2.79d98c68.chunk.js",
+    "static/js/2.79d98c68.chunk.js.map": "/deadflix/static/js/2.79d98c68.chunk.js.map",
+    "index.html": "/deadflix/index.html",
+    "static/css/main.6594404f.chunk.css.map": "/deadflix/static/css/main.6594404f.chunk.css.map",
+    "static/js/2.79d98c68.chunk.js.LICENSE.txt": "/deadflix/static/js/2.79d98c68.chunk.js.LICENSE.txt",
+    "static/media/404.81c0007a.png": "/deadflix/static/media/404.81c0007a.png",
+    "static/media/navbar_logo.07d569e4.png": "/deadflix/static/media/navbar_logo.07d569e4.png",
+    "static/media/star.092fbc78.png": "/deadflix/static/media/star.092fbc78.png",
+    "static/media/star2.0d5eb703.png": "/deadflix/static/media/star2.0d5eb703.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa183f01.js",
+    "static/js/2.79d98c68.chunk.js",
+    "static/css/main.6594404f.chunk.css",
+    "static/js/main.21522ae7.chunk.js"
+  ]
+}
